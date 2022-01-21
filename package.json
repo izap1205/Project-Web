@@ -1,0 +1,9 @@
+{
+  "name": "web-page-chemistr",
+  "scripts": {
+    "start": "lws --port=9010 --dir=./"
+  },
+  "devDependencies": {
+    "light-web-server": "^1.2.8"
+  }
+}
