@@ -45,7 +45,7 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-md-10 col-lg-8 col-xl-7">
                         <h2 class="section-heading">W pogoni za pięknem</h2>
-                        <div style="margin-top: 3rem">
+                        <div style="margin-top: 4rem">
                             <video width="480" height="270" controls>
                                 <source src="assets/img/video.mp4" type="video/mp4">
                             </video>
